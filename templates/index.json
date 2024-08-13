@@ -35,6 +35,34 @@
     },
     "links": {
       "type": "links",
+      "blocks": {
+        "block_pDcQbh": {
+          "type": "block",
+          "settings": {
+            "url_link": "",
+            "text_titel": "Bestselling"
+          }
+        },
+        "block_AqbKtT": {
+          "type": "block",
+          "settings": {
+            "url_link": "",
+            "text_titel": "Bestselling"
+          }
+        },
+        "block_irFPzW": {
+          "type": "block",
+          "settings": {
+            "url_link": "",
+            "text_titel": "Bestselling"
+          }
+        }
+      },
+      "block_order": [
+        "block_pDcQbh",
+        "block_AqbKtT",
+        "block_irFPzW"
+      ],
       "settings": {
         "text_headline": "Short heading here"
       }
@@ -48,7 +76,7 @@
         "url_artikel_1_link": "",
         "text_artikel_1_titel": "Blog title heading will go here",
         "text_artikel_1_excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
-        "article_artikel_2": "",
+        "article_artikel_2": "salle-de-lecture\/pessah-2022-histoire-rites-celebration",
         "url_artikel_2_link": "",
         "text_artikel_2_titel": "Blog title heading will go here",
         "text_artikel_2_excerpt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.",
