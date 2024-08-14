@@ -12,7 +12,7 @@
     "product_hero": {
       "type": "product_hero",
       "settings": {
-        "text_headline": ""
+        "text_headline": "Description"
       }
     },
     "product_recommended": {
