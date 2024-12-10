@@ -1,0 +1,42 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "product_hero": {
+      "type": "product_hero",
+      "settings": {
+        "text_headline": "Description"
+      }
+    },
+    "product_recommended": {
+      "type": "product_recommended",
+      "settings": {
+        "text_headline": "Recommended"
+      }
+    },
+    "hero_4TgXUg": {
+      "type": "hero",
+      "settings": {
+        "image_bild": "shopify:\/\/shop_images\/destockage-banner.png",
+        "text_headline": "Short heading here",
+        "richtext_text": "<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<\/p>",
+        "url_button_link": "",
+        "text_button_text": "More Information"
+      }
+    }
+  },
+  "layout": "product",
+  "wrapper": "main.main-wrapper",
+  "order": [
+    "product_hero",
+    "product_recommended",
+    "hero_4TgXUg"
+  ]
+}
